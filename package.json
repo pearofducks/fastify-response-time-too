@@ -1,5 +1,5 @@
 {
-  "name": "fastify-response-time",
+  "name": "fastify-response-time-too",
   "version": "2.1.0",
   "description": "Add X-Response-Time header at each request (in ms) for Fastify",
   "main": "index.js",
@@ -8,14 +8,14 @@
     "test:coverage": "tap test.js --coverage --100 --coverage-report=html"
   },
   "bugs": {
-    "url": "https://github.com/lolo32/fastify-response-time/issues"
+    "url": "https://github.com/pearofducks/fastify-response-time/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lolo32/fastify-response-time.git"
+    "url": "https://github.com/pearofducks/fastify-response-time.git"
   },
-  "homepage": "https://github.com/lolo32/fastify-response-time.git#readme",
-  "author": "Lolo_32",
+  "homepage": "https://github.com/pearofducks/fastify-response-time.git#readme",
+  "author": "pearofducks",
   "license": "MIT",
   "keywords": [
     "Fastify",
